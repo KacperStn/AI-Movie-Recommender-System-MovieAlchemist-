@@ -1,5 +1,8 @@
 # MovieAlchemist 
 
+*Interface Link* 
+https://doll-debug-75782524.figma.site/
+
 **MovieAlchemist** is a recommendation engine that leverages Artificial Intelligence to help users discover movies they'll love. By analyzing patterns in genres, cast, and plot summaries from the TMDB dataset, the system suggests films with high semantic similarity.
 
 ### Key Features:
